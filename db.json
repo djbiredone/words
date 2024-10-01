@@ -7,8 +7,13 @@
         },
         {
             "id": 2,
-            "word": "leh",
+            "word": "leg",
             "translation": "noga"
+        },
+        {
+            "id": 3,
+            "word": "hand",
+            "translation": "ręka"
         }
     ]
 }
