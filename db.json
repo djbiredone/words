@@ -1,14 +1,78 @@
 {
-  "words": [
+  "users": [
     {
-      "id": 1, 
-      "word": "ass",
-      "word": "dupa",
+      "id": 1,
+      "first_name": "Grzegorz",
+      "last_name": "Grubciak",
+      "email": "g.grubciak@gmail.com",
+      "phoneNumber": "+48 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+      "birthday": "1/1/1955",
+      "phone": "+48 222 222 222",
+      "address": "1/1/1955"
     },
     {
-      "id": 2, 
-      "word": "knee",
-      "word": "kolano",
+      "id": 2,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "k.nowak@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 3,
+      "first_name": "Maria",
+      "last_name": "Kowalska",
+      "email": "m.kowalska@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/84.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Obdarowicz",
+      "email": "p.obdarowicz@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Pan Tadeusz",
+      "author_id": 1,
+      "picture": "https://picsum.photos/id/1003/100/300",
+      "content": "Litwo! Ojczyzno moja! Ty jesteś jak zdrowie. Nazywał się możemy na wieś rozweselić. Tadeusz Telimenie, Asesor Krajczance a często bez żadnych ozdób, ale szerzej niż myśliwi młodzi tak było jeszcze dobrze zachowana sklepienie całe zaczerwienione, jak on znowu w kuca. Obaczcież, co dzień postrzegam, jak czas i zdrowie. Nazywał się zdawał małpą lub wymowy uczyć się tłocz i tam ma szkół uczących żyć z dom nikt lepiej nad błękitnym Niemnem rozciągnionych. Do zobaczenia! tak wedle dzisiejszej mody jeździł Hreczecha. Tu śmiech młodzieży mowę Wojskiego zagłuszył."
+    },
+    {
+      "id": 2,
+      "title": "Nowomowa",
+      "author_id": 1,
+      "picture": "https://picsum.photos/id/1006/300/100",
+      "content": "Drogi Marszałku, Wysoka Izbo. PKB rośnie. Nie chcę państwu niczego sugerować, ale stałe zabezpieczenie informacyjne naszej działalności rozszerza nam horyzonty istniejących kryteriów rozszerza nam horyzonty obecnej sytuacji. W praktyce skoordynowanie pracy obu urzędów jest ważne z powodu kolejnych kroków w większym stopniu tworzenie systemu powszechnego uczestnictwa. I staje się wskaźniki... Nikt inny was nie trzeba udowadniać, ponieważ zmiana istniejących kryteriów umożliwia w wypracowaniu nowych propozycji. W sumie zmiana przestarzałego systemu powszechnego uczestnictwa."
+    },
+    {
+      "id": 3,
+      "title": "Kant: Rozprawa",
+      "author_id": 2,
+      "picture": "https://picsum.photos/id/1003/200/200",
+      "content": "Początek traktatu czasu panowania Fryderyka Wielkiego, Króla Pruskiego żył w parnej rzeczy niemożemy przypuścić, lecz on podług niej oznaczyć, o najwyższej Istności przypuścić i kary wprost pszenikający. Albowiem w takowym przyszło dorozumiewał odmiany w tym zależy, że nią niejest, boby to już każdy deptać będzie! Wypada nam granice naszego ku doskonałości. "
+    },
+    {
+      "id": 4,
+      "title": "Lorem Ipsum",
+      "author_id": 4,
+      "picture": "https://picsum.photos/id/1011/100/300",
+      "content": "Lorem ipsum dolor sit amet tempor vitae, pellentesque erat velit ac nibh ac purus. Duis blandit eu, facilisis hendrerit. Fusce consequat ac, suscipit quis, ipsum. Nam posuere. Quisque pharetra, urna quis massa at sapien pede lobortis volutpat."
     }
   ]
 }
