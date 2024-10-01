@@ -1,9 +1,9 @@
 {
-  "users": [
+  "words": [
     {
       "id": 1,
-      "first_name": "Grzegorz",
-      "last_name": "Grubciak",
+      "word": "knee",
+      "translation": "kolano",
       "email": "g.grubciak@gmail.com",
       "phoneNumber": "+48 000 000 000",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
