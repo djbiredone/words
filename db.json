@@ -1,14 +1,14 @@
 {
-"words": [
-    {
-      "id": 2,
-      "word": "knee",
-      "translation": "kolano",
-    },
-    {
-      "id": 2,
-      "word": "leh",
-      "translation": "noga",
-    },
-  ],
+    "words": [
+        {
+            "id": 2,
+            "word": "knee",
+            "translation": "kolano"
+        },
+        {
+            "id": 2,
+            "word": "leh",
+            "translation": "noga"
+        }
+    ]
 }
