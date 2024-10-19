@@ -1,19 +1,79 @@
 {
     "words": [
         {
-            "id": 2,
-            "word": "knee",
-            "translation": "kolano"
+            "id": 1,
+            "word": "sprained",
+            "translation": "zwichnięty"
         },
         {
             "id": 2,
-            "word": "leg",
-            "translation": "noga"
+            "word": "siblings",
+            "translation": "rodzeństwo"
         },
         {
             "id": 3,
-            "word": "hand",
-            "translation": "ręka"
+            "word": "smallpox",
+            "translation": "ospa prawdziwa"
+        },
+        {
+            "id": 4,
+            "word": "disease",
+            "translation": "choroba"
+        },
+        {
+            "id": 5,
+            "word": "ankle",
+            "translation": "kostka"
+        },
+        {
+            "id": 6,
+            "word": "chickenpox",
+            "translation": "ospa wietrzna"
+        },
+        {
+            "id": 7,
+            "word": "syringe",
+            "translation": "strzykawka"
+        },
+        {
+            "id": 8,
+            "word": "fever",
+            "translation": "gorączka"
+        },
+        {
+            "id": 9,
+            "word": "champagne",
+            "translation": "szampan"
+        },
+        {
+            "id":10,
+            "word": "lawnmower",
+            "translation": "kosiarka"
+        },
+        {
+            "id": 11,
+            "word": "cave",
+            "translation": "jaskinia"
+        },
+        {
+            "id": 12,
+            "word": "kolano",
+            "translation": "knee"
+        },
+        {
+            "id": 13,
+            "word": "backbone",
+            "translation": "kręgosłup"
+        },
+        {
+            "id": 14,
+            "word": "terraced house",
+            "translation": "dom szeregowy"
+        },
+        {
+            "id": 15,
+            "word": "runny nose",
+            "translation": "katar"
         }
     ]
 }
