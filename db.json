@@ -1,77 +1,77 @@
 {
     "words": [
         {
-            "id": "w1",
+            "id": "1",
             "word": "sprained",
             "translation": "zwichnięty"
         },
         {
-            "id": "w2",
+            "id": "2",
             "word": "siblings",
             "translation": "rodzeństwo"
         },
         {
-            "id": "w3",
+            "id": "3",
             "word": "smallpox",
             "translation": "ospa prawdziwa"
         },
         {
-            "id": "w4",
+            "id": "4",
             "word": "disease",
             "translation": "choroba"
         },
         {
-            "id": "w5",
+            "id": "5",
             "word": "ankle",
             "translation": "kostka"
         },
         {
-            "id": "w6",
+            "id": "6",
             "word": "chickenpox",
             "translation": "ospa wietrzna"
         },
         {
-            "id": "w7",
+            "id": "7",
             "word": "syringe",
             "translation": "strzykawka"
         },
         {
-            "id": "w8",
+            "id": "8",
             "word": "fever",
             "translation": "gorączka"
         },
         {
-            "id": "w9",
+            "id": "9",
             "word": "champagne",
             "translation": "szampan"
         },
         {
-            "id": "w10",
+            "id": "10",
             "word": "lawnmower",
             "translation": "kosiarka"
         },
         {
-            "id": "w11",
+            "id": "11",
             "word": "cave",
             "translation": "jaskinia"
         },
         {
-            "id": "w12",
+            "id": "12",
             "word": "kolano",
             "translation": "knee"
         },
         {
-            "id": "w13",
+            "id": "13",
             "word": "backbone",
             "translation": "kręgosłup"
         },
         {
-            "id": "w14",
+            "id": "14",
             "word": "terraced house",
             "translation": "dom szeregowy"
         },
         {
-            "id": "w15",
+            "id": "15",
             "word": "runny nose",
             "translation": "katar"
         }
